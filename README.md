@@ -1,4 +1,4 @@
-# Arte Berakah 365 — MVP (sin Tailwind)
+# Arte Berakah 365 
 
 ## Cómo iniciar
 1. Copia `.env.example` a `.env.local` y ajusta tu número de WhatsApp:
